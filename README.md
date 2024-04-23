@@ -29,6 +29,7 @@
 <div align="center">
 <a href="https://oj.vnoi.info/user/Groot" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713209522/vnoi_q29hrz.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://codeforces.com/profile/vuivethoima" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713209721/codeforces_uihcvf.png" width="36" height="36" alt="CSS3" /></a>
+<a href="https://cses.fi/user/212174" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713868783/images_r2n5da.png" width="36" height="36" alt="CSS3" /></a>
 
 </div>
 
