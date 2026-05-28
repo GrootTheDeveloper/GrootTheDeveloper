@@ -10,7 +10,7 @@
 <h1 align="center">Hi there, I'm Khang 👋</h1>
 
 <h3 align="center">
-  Software Engineer | Competitive Programming Enthusiast
+  Software Engineer wannabe | Competitive Programming Enthusiast
 </h3>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 ## About Me
 
-- Software Engineer with a strong interest in backend development and problem solving.
 - I love Competitive Programming and continuously practice algorithms and data structures.
 - Always learning, building, and improving one step at a time.
 
@@ -66,8 +65,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khangan2111&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangan2111&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GrootTheDeveloper&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrootTheDeveloper&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
